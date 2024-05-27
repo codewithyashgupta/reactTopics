@@ -1,0 +1,29 @@
+/* App.css */
+
+.featured-items {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .featured-item {
+    width: 300px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  .featured-item img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .featured-item h2 {
+    margin-top: 10px;
+    font-size: 1.5rem;
+  }
+  
+  .featured-item p {
+    margin-top: 5px;
+  }
+  
+  
